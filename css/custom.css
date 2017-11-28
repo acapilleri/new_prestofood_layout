@@ -1,0 +1,370 @@
+body {
+	margin:0;
+	padding:0
+}
+
+.navbar-white{
+	background-color: white;
+}
+.color-text{
+	color: white;
+}
+.navbar-left-item{
+	position: absolute;
+    margin: auto;
+    top: 15;
+    left: 250;
+    right: 0;
+    bottom: 0;
+	color: #E11F21;
+	font-family: bariol;
+	font-size: 14px;
+}
+.navbar-right-item{
+	position: absolute;
+    margin: auto;
+    top: 15;
+    right: 20;
+    bottom: 0;
+	color: #E11F21;
+	font-family: bariol;
+	font-size: 14px;
+}
+
+.footer-item{
+	margin: auto;
+	font-family: bariol;
+	font-size: 14px;
+	color: white;
+}
+.list-left {
+    position: relative;
+    left: 23px;
+   }
+.account-image{
+	position: absolute;
+    margin: auto;
+    top: -2;
+    right: 63;
+    bottom: 0;
+}
+
+.content{
+	min-height: 1200;
+	background: white;
+	margin-top: 50;
+}
+
+.search-content{
+	margin-top: 80;
+	min-height: 150;
+	background-color: white;
+}
+.search-text{
+	background-color: white;
+	padding: 10;
+	height: 45;
+	border-color: #C0C0C0;
+	border-radius: 0;
+}
+.search-button{
+	background: #E11F21;
+	border-color: #C0C0C0;
+	border-radius: 0;
+	height: 45;
+}
+.header-contents{
+	min-height: 125;
+	background-color: white;
+	text-align: center;
+	font-family: bariol;
+	font-size: 25;
+	position: relative;
+	top: 25;
+	color: #e11f21;
+}
+.all-city{
+	min-height: 200;
+	background-color: white;
+	margin-top: 180;
+	text-align: center;
+	color: #e11f21;
+	font-family: bariol;
+	font-size: 19;
+}
+.all-city-image{
+	height: 220;
+	width: 220;
+}
+.newsletter-icon{
+	margin-top: -5;
+	height: 28;
+	width: 28;
+}
+
+.information-contents{
+	
+	background-color: white;
+	min-height: 200;
+	margin-top: 20;
+	
+}
+.informati-contents-logo{
+	position: relative;
+	z-index: 2;
+	height: 50;
+	width: 50;
+	margin-top: 60;
+}
+
+.information-text-1{
+	color: #e11f21;
+	font-family: bariol;
+	font-size: 22;
+}
+.information-text-2{
+	color: gray;
+	font-family: bariol;
+	font-size: 15;
+	margin-top: 6;
+}
+.size-color{
+	font-family: bariol;
+	color: gray;
+	margin-top: -14;
+	font-size: 18;
+}
+.red{
+	color: #e11f21;
+}
+.black{
+	color:black;
+}
+.solid-line{
+	z-index: 1;
+	position: relative;
+	border-top-width: 2;
+	margin-top: 15;
+	margin-left: 150;
+	margin-right: 150;
+	border-color: #dedede;
+	border-bottom-width: 0;
+	border-style: solid;
+	top: -25;
+}
+.top{
+	margin-top: -20;
+}
+
+.bottom{
+	margin-top: 40;
+}
+
+.footer{
+	min-height: 350px;
+	background: #E11F21;
+}
+.footer-img-account {
+	position: relative;
+	margin: auto;
+    left: 0;
+    top: -40;
+	height: 20;
+	width: 20;
+}
+.download-icon{
+	position: relative;
+	margin-top: 5;
+	margin-right: 8;
+    left: 0;
+    margin-top: 40;
+    top: 0;
+    height: 40.5;
+    width: 122;
+	
+}
+.social-icon{
+	position: relative;
+	margin-top: 5;
+	margin-right: 8;
+    left: 0;
+    top: 0;
+	height: 25;
+	width: 25;
+}
+.copyright{
+	min-height: 35;
+	background-color: white;
+	position:relative;
+    bottom:-80;
+}
+.copiright-color{
+	margin-top: auto;
+	text-align: center;
+	color: #E11F21;
+}
+.back-newsletter{
+	min-height: 280px;
+	background-color: #e11f21;
+	text-align: center;
+	font-family: bariol;
+	font-size: 22;
+	color: white;
+}
+.separator-line-dotted {
+	border-top-width: 1;
+	margin-top: 15;
+	margin-left: 150;
+	margin-right: 150;
+	border-color: #dedede;
+	border-bottom-width: 0;
+	border-style: dashed;
+	
+}
+.paragraph-style{
+	margin-top: 15;
+	font-family: bariol;
+	font-size: 15;
+	text-align: center;
+	color: white;
+}
+
+.text-instagram{
+	min-height: 50;
+	background-color: white;
+	text-align: center;
+	color: #E11F21;
+}
+
+.photo-instagram{
+	min-height: 150;
+	background-color: white;
+}
+.custom-text{
+	border-color: white;
+	border-width: 2;
+	border-radius: 0;
+}
+.custom-button{
+	background-color: #E11F21;
+	border-radius: 0;
+	border-left-width: 2;
+	border-color: white;
+}
+
+.custom-instagram-text{
+	margin-top: 40;
+	font-family: bariol;
+	font-size: 20px;
+}
+
+.instagram-icon{
+	height: 30;
+	width: 30;
+}
+
+.app-container{
+	position: relative;
+	min-height: 300;
+	background-color: white;
+}
+
+.app-image{
+  z-index: 2;
+  position: relative;
+  top: -20;
+  max-width: 50%;
+  height: auto;
+  width: auto\9;
+}
+.app-text-1{
+	font-family: bariol;
+	color: #e11f21;
+	font-size: 27;
+}
+
+.app-text-2{
+	margin-top: -12;
+	font-family: bariol;
+	color: gray;
+	font-size: 18;
+}
+.resize-line{
+	margin-left: 300;
+	margin-right: 300;
+}
+.black-icon{
+	position: relative;
+	top: -40;
+}
+
+.lavora-con-noi{
+	min-height: 50;
+	background-color: white;
+}
+.lavora-con-noi-image-resize-1{
+	max-width: 40%;
+  height: auto;
+  width: auto\9;
+}
+
+.lavora-con-noi-image-resize-2{
+	max-width: 30%;
+  height: auto;
+  width: auto\9;
+}
+.lavora-con-noi-title{
+	position: relative;
+	margin-top: 10;
+}
+.size-font{
+	font-size: 16;
+}
+.lavora-con-noi-title-1{
+	position: relative;
+	margin-top: 10;
+	font-family: bariol;
+	font-size: 10;
+	color: gray;	
+}
+.font-up{
+	font-size: 15;
+}
+.solid-line-extend-col{
+	margin-top: 25;
+	margin-left: 10;
+	margin-right: 10;
+	border-color: darkgray;
+}
+.btn-custom-lavora-con-noi{
+	position: relative;
+	top: -28;
+	background: #e11f21;
+	border-radius: 0;
+	border-color: transparent;
+	font-family: bariol;
+	color: white;
+	text-shadow: none;
+}
+.lavora-con-noi-text-1{
+	margin-top: 25;
+	background-color: white;
+	min-height: 100;
+}
+.bariol{
+	font-family: bariol;
+	font-size: 27;
+}
+.gray{
+	color: gray;
+}
+.margin-top-text-lcn{
+	margin-top: -10;
+}
+.margin-top-text-App-content{
+	margin-top: -50;
+}
+.line-red{
+background-color: red;
+min-height: 50;
+}
