@@ -58,7 +58,7 @@ body {
 	min-height: 500;
 	background: black;
 	margin-top: 50;
-	background-image: url(/Users/Mac/Desktop/new_prestofood_layout/prestoFood-Web-NewSites/Asset/Immagini-Header/sfondo.png);
+	/*background-image: url(/new_prestofood_layout/prestoFood-Web-NewSites/Asset/Immagini-Header/sfondo.png);*/
 	border-bottom: 1px dashed gray;
 }
 .bg-left {
