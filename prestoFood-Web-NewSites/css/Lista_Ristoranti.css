@@ -1,0 +1,152 @@
+.blank-space{
+	min-height: 200;
+	background-color: white;
+}
+.ristoranti{
+	position: relative;
+	margin-top: 50;
+	min-height: 100;
+	background-color: white;
+}
+
+.search-object{
+	height: 32;
+	width: 32;
+}
+.search-text-restaurant{
+	float: left;
+	
+	position: relative;
+	min-width: 270;
+	height: 40;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-top-color: transparent;
+	border-width: 1;
+	border-style: dashed;
+	border-bottom-color: lightgray;
+	padding-top: 11;
+	padding-left: 40;
+}
+::placeholder{
+	color: lightgray;
+	font-family: bariol;
+}
+.header{
+	background-color: white;
+	min-height: 180;
+	font-family: bariol;
+	text-align: center;
+	font-size: 25;
+	color: #e11f21;	
+}
+.search-contents-margin{
+	margin-top: 35;
+}
+
+.title-select-for-you{
+	background-color: #e11f21;
+	min-height: 50;
+	margin-top: 10;
+	margin-left: 10;
+	margin-right: 10;
+	text-align: center;
+	font-family: bariol;
+	color: white;
+}
+
+.text-select-for-you-1{
+	text-align: left;
+	padding-left: 20;
+	margin-top: 205;
+	font-family: bariol;
+	font-size: 17;
+	color: white;
+}
+
+.select-for-you{
+	display: table;
+	margin-top: 25;
+	background-color: #e11f21;
+	height: 250;
+	
+}
+.line-dashed-restaurant{
+	margin-top: -5;
+	border-style: dashed;
+}
+.margin-select-for-you{
+	position: relative;
+	margin-top: -10;
+	margin-bottom: -4; 
+	
+}
+.resize-margin{
+	margin-left: 220;
+	margin-right: 220;
+}
+.move-text{
+	position: relative;
+	top: 11;
+}
+.rectangle{
+	position: relative;
+	margin-right: 18;
+	margin-left: 21;
+	background-color: #e11f21;
+	min-height: 55;
+	height: auto;
+	width: auto;
+}
+.box-restaurant{
+	margin-top: 180;
+	background-color: white;
+	min-height: 700;
+}
+.box-image-restaurant{
+	height: 193;
+	width: 345;
+	float: left;
+}
+.box-home{
+	font-family: bariol;
+	color: #e11f21;
+	background-color: white;
+	padding-left: 5;
+	padding-bottom: 0;
+	padding-top: 190;
+	width: 345;
+	top: 2;
+	border-right:1px solid #e11f21;
+	border-left:1px solid #e11f21;
+}
+.box-info{
+	width: 345;
+	height: 43;
+	background-color: #eeeff0;
+	margin-bottom: 45;
+}
+
+.box-info-text{
+	margin-top: -20;
+	font-family: bariol;
+	font-size: 13px;
+	color: gray;
+}
+.box-info-icon{
+	position: relative;
+	color: #e11f21;
+	margin-top: 0;
+}
+.distance{
+	text-align: center;
+	padding-top: 3;
+	font-size: 13;
+	color: black;
+	height: 19;
+	width: 75;
+	background-color: #eeeff0;
+	float: right;
+	margin-top: 2;
+	margin-right: 6;
+}
